@@ -5,6 +5,10 @@ Ruby CookieJar
 
   **Author**:	David Waite 
 
+mobileJob Notes
+---------------
+We had to fork this repository, because we needed [these changes](https://github.com/MissionCapital/cookiejar/commit/3ec55b4c3322b1772e8ec8fc522d19cbdde6357f) and the latest version of cookiejar which supported the max-age attibute.
+
 [![Build Status](https://travis-ci.org/dwaite/cookiejar.svg?branch=master)](https://travis-ci.org/dwaite/cookiejar)
 
 Synopsis
